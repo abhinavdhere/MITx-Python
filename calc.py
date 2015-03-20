@@ -1,8 +1,14 @@
-#Calculator with MATLAB like interface
-#Author: Abhinav Dhere ; Date: 19 March 2015
-#This work is licensed under a Creative Commons
-#Attribution-NonCommercial-ShareAlike 4.0 International License.
-#See http://creativecommons.org/licenses/by-nc-sa/4.0/ for details
+#--------------------------------------------------------------
+#Name: Calculator
+#Purpose: Calculator with a simple MATLAB like interface
+#
+#Author: Abhinav Dhere 
+#
+#Created: 19 March 2015
+#
+#License: This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+#         See http://creativecommons.org/licenses/by-nc-sa/4.0/ for details
+#--------------------------------------------------------------
 
 import math
 def parse(expression):
