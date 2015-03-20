@@ -1,4 +1,4 @@
-#--------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------------------------------
 #Name: Calculator
 #Purpose: Calculator with a simple MATLAB like interface
 #
@@ -8,7 +8,7 @@
 #
 #License: This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 #         See http://creativecommons.org/licenses/by-nc-sa/4.0/ for details
-#--------------------------------------------------------------
+#-------------------------------------------------------------------------------------------------------------------------
 
 import math
 def parse(expression):
